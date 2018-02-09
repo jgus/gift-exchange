@@ -1,0 +1,37 @@
+{
+    "Alice": [
+        "Calvin",
+        "Gloria"
+    ],
+    "Andrew": [
+        "Beth",
+        "Doug"
+    ],
+    "Beth": [
+        "Cindy"
+    ],
+    "Bob": [
+        "Alice"
+    ],
+    "Calvin": [
+        "Bob",
+        "Felicia"
+    ],
+    "Cindy": [
+        "Alice",
+        "Doug"
+    ],
+    "Doug": [
+        "Calvin",
+        "Fred"
+    ],
+    "Felicia": [
+        "Andrew"
+    ],
+    "Fred": [
+        "Cindy"
+    ],
+    "Gloria": [
+        "Andrew"
+    ]
+}

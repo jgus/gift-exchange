@@ -1,0 +1,9 @@
+[
+  [ { "name" : "Andrew", "p" : 2 }, { "name" : "Alice", "p" : 2 } ],
+  [ { "name" : "Bob", "p" : 1 }, { "name" : "Beth", "p" : 1 } ],
+  [ { "name" : "Calvin", "p" : 2 }, { "name" : "Cindy", "p" : 2 } ],
+  [ { "name" : "Doug", "p" : 2 } ],
+  [ { "name" : "Eric", "p" : 0 }, { "name" : "Eliza", "p" : 0 } ],
+  [ { "name" : "Fred", "p" : 1 }, { "name" : "Felicia", "p" : 1 } ],
+  [ { "name" : "Gloria", "p" : 1 } ]
+]
